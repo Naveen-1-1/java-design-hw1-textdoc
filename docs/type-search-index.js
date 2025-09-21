@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"document","l":"TextDocument"},{"p":"document","l":"TextDocumentImpl"},{"p":"<Unnamed>","l":"TextDocumentImplTest"}]
